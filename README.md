@@ -37,7 +37,7 @@ $ npm start
 http://localhost:3000/
 ```
 
-### Outros metodo
+### Outros métodos
 
 - Ir até a pasta da build e colocar os arquivos na raiz do servidor
 ```sh 
