@@ -1,0 +1,151 @@
+ 
+ .divUl{
+
+    display: flex;
+
+ }
+ .divUl .bntTitle{
+
+  margin: auto;
+  background: 'white';
+  margin-left: 1px;
+  margin-right: 2px;
+  background: white;
+
+}
+.divUl .navBarTitle{
+
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 2px;
+ 
+
+}
+
+ .divUl ul {
+    
+    font: 400 14px Roboto, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+    margin-right: 200px;
+    margin-left: 267px;
+    margin-top: 10px;  
+    opacity: 1;
+    
+  }
+  
+  .divUl li {
+    float: left;
+  }
+  
+  .divUl li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    top: 10px;
+    left: 267px;
+    width: 137px;
+    height: 50px;
+    border-radius: 5px 5px 0px 0px;
+  }
+  
+  .divUl li a:hover:not(.active) {
+    background-color:  white;
+    
+  }
+  
+  .active {
+    background-color: white;
+     
+    
+  }
+ section{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    
+ }
+
+ section h3{
+
+    font: 300 45px Roboto, sans-serif;
+    text-align: left;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 74px;
+
+ }
+
+ section h3 b{
+
+    font: 900 45px Roboto, sans-serif;
+ 
+
+ }
+
+.divUlSection{
+
+    display: flex;
+    align-items: center;
+
+}
+.divUlSection ul {
+    
+    font: 500 14px Roboto, sans-serif;
+    list-style-type: none; 
+    
+    margin-left: 45px;
+     
+    
+  }
+  
+  .divUlSection li {
+    float: left;
+    
+  }
+  .divUlSection li a {
+    display: block;
+    color: black;
+    text-align: left;
+    margin-left: 35px;
+    text-decoration: none;
+    
+    
+  }
+
+  .divUlSection button{
+    font: 500 14px Roboto, sans-serif;
+    margin-left: 202px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #3BACFF;
+    color:white;
+    height: 40px;
+    width: 180px;
+  }
+  .divUlSection button:hover{
+    background-color: #3BACFF;
+    opacity: 80%;
+  }
+
+  .divUlSection a{
+    margin-left: 40px;
+    text-align: right;
+    color: #142032;
+    text-decoration: none;
+  }
+  .divUlSection a:hover{
+
+    opacity: 80%;
+    
+  }
+.title{
+  
+  text-align: left;
+
+}
+ 
