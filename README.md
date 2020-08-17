@@ -36,5 +36,13 @@ $ npm start
  ```sh 
 http://localhost:3000/
 ```
+
+### Outro metodo
+
+- Ir até a pasta da build e colocar os arquivos na raiz do servidor
+```sh 
+$ cd frontend-ponto-criativo/build/
+```
+
 ## Home
 ![Home](/assets/pontocriativo.png)
