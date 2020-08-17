@@ -37,12 +37,20 @@ $ npm start
 http://localhost:3000/
 ```
 
-### Outro metodo
+### Outros metodo
 
 - Ir até a pasta da build e colocar os arquivos na raiz do servidor
 ```sh 
 $ cd frontend-ponto-criativo/build/
 ```
+ou
+
+- Ir até o servidor netlify
+```sh 
+https://5f3a819e469979c71f1352eb--pedantic-varahamihira-265363.netlify.app/
+```
+
+
 
 ## Home
 ![Home](/assets/pontocriativo.png)
